@@ -49,7 +49,6 @@
                         <!-- ***** Menu Start ***** -->
                         <ul class="nav">
                             <li><a href="indexDefault.aspx">Anasayfa</a></li>
-                            <li><a href="fleetDefault.aspx">Filo</a></li>
                             <li><a href="offersDefault.aspx">Teklifler</a></li>
                             <li><a href="aboutDefault.aspx">Hakkımızda</a></li>
                             <li><a href="contacDefault.aspx">İletişim</a></li> 

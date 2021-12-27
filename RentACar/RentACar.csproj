@@ -68,7 +68,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="aboutDefault.aspx" />
-    <Content Include="fleetDefault.aspx" />
     <Content Include="offersDefault.aspx" />
     <Content Include="template165\car-rental-website-template-165\about.html" />
     <Content Include="template165\car-rental-website-template-165\assets\css\bootstrap.min.css" />
@@ -139,13 +138,6 @@
     </Compile>
     <Compile Include="aboutDefault.aspx.designer.cs">
       <DependentUpon>aboutDefault.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="fleetDefault.aspx.cs">
-      <DependentUpon>fleetDefault.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="fleetDefault.aspx.designer.cs">
-      <DependentUpon>fleetDefault.aspx</DependentUpon>
     </Compile>
     <Compile Include="offersDefault.aspx.cs">
       <DependentUpon>offersDefault.aspx</DependentUpon>
